@@ -46,3 +46,39 @@ select {
 	-webkit-appearance: none !important;
 	border-radius: 0;
 }
+
+section {
+	position: relative;
+	height: 100vh;
+	width: 100vw;
+}
+
+#section1 {
+	background-color: #fd0100;
+}
+
+#section2 {
+	background-color: #f76915;
+}
+
+#section3 {
+	background-color: #eede04;
+}
+
+.button1 {
+	background-color: #a0d636;
+}
+
+.button2 {
+	background-color: #2fa236;
+}
+
+.button3 {
+	background-color: #333ed4;
+}
+
+button {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+}
